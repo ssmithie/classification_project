@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+import pandas as pd
 # strip the odd punctuation from the column names, and change spaces for underscores
 df.columns = df.columns.str.strip('\n')
 df.columns = df.columns.str.replace(" ", "_")
