@@ -1,2 +1,2 @@
 # classification_project
-Project looking at housing sales in Brooklyn, to build a model to classify those sales.
+Objective: Predict whether a house will sell above or below the mean sale price (by borough).
