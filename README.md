@@ -2,13 +2,13 @@
 Determining if a house would sell for above average price.
 
 -[Data](#Data)
-    *[Source](#Source)
-    *[Features](#Features) 
+    -[Source](#Source)
+    -[Features](#Features) 
 -[EDA](#EDA)
-    *[Visualizations](#Viz)
+    -[Visualizations](#Viz)
 -[Modeling](#Modeling)
-    *[Choosing The Model](#ModChoice)
-    *[Interpretation of the Model](#ModInterp)
+    -[Choosing The Model](#ModChoice)
+    -[Interpretation of the Model](#ModInterp)
 -[Conclusions](#Conclu)
 -[Next Steps](#Future)
 
