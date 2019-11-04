@@ -13,7 +13,7 @@ Determining if a house would sell for above average price.
 -[Next Steps](#Future)
 
 ## Data <a name="Data"></a>
-### Source <a name="Source></a>
+### Source <a name="Source"></a>
 I obtained my data from [NYCOpenData](https://opendata.cityofnewyork.us/). I used their API to gather data on housing sales, and chose to move forward with housing sales in Brooklyn in 2015 (the most recent year they had).
 My objective for this project was to classify the sale price, to predict if it would be either above or below the average sale price in that borough.
 
