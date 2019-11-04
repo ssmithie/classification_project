@@ -1,16 +1,16 @@
 # classification_project
 Determining if a house would sell for above average price.
 
--[Data](#Data)
-    -[Source](#Source)
-    -[Features](#Features) 
--[EDA](#EDA)
-    -[Visualizations](#Viz)
--[Modeling](#Modeling)
-    -[Choosing The Model](#ModChoice)
-    -[Interpretation of the Model](#ModInterp)
--[Conclusions](#Conclu)
--[Next Steps](#Future)
+- [Data](#Data)
+    - [Source](#Source)
+    - [Features](#Features) 
+- [EDA](#EDA)
+    - [Visualizations](#Viz)
+- [Modeling](#Modeling)
+    - [Choosing The Model](#ModChoice)
+    - [Interpretation of the Model](#ModInterp)
+- [Conclusions](#Conclu)
+- [Next Steps](#Future)
 
 ## Data <a name="Data"></a>
 ### Source <a name="Source"></a>
