@@ -33,11 +33,11 @@ The data came with lot of great information, but not everything was in a useable
 
 ## EDA <a name="EDA"><\a>
 A quick look at the number of houses below and above the mean shows there is a large class imbalance in this data.
-![class_imbalance](images/dist_sales.png)
+![class_imbalance](Images/dist_sales.png)
 
 I then had a look at the distribution of sales by season, year built, tax class and zip code. I then broke it down by above/below mean to visualize whether or not there was a difference based on the variables selected.
-![distributions](images/cat_dist.png)
-![above_vs_below](images/above_vs_below.png)
+![distributions](Images/cat_dist.png)
+![above_vs_below](Images/above_vs_below.png)
 
 ## Modeling <a name='modeling'></a>
 ### Choosing The Model
