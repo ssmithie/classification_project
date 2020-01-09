@@ -1,4 +1,5 @@
 # Classification Project
+Sarah Smith
 
 - [Data](#Data) 
 - [EDA](#EDA)
