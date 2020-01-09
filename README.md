@@ -40,7 +40,7 @@ I then had a look at the distribution of sales by season, year built, tax class 
 ## Modeling <a name='modeling'></a>
 ### Choosing The Model
 I trained a number of models using scikit-learn, I optimized the hyperparamaters and took note of the accuracy, recall, precision and F1 score for each. This can be seen in the below table:
-![model_results](Images/models.png)
+![model_results](Images/models1.png)
 
 ### Final Model Results
 I chose Random Forest as my final model, as I wanted to optimize for minimal Type II errors (as I would rather the model incorrectly predicted a sale was above the mean than the opposite).
